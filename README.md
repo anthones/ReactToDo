@@ -1,4 +1,11 @@
 # ReactToDo
+
+Instaliranje:
+
+1. Klonirajte go repoto na vashata lokalna mashina, ili simnete go vo .zip format.
+2. Otkako ke go zacuvate na vashata mashina, otvorete go vo vashiot terminal i zadadete ja komandata "npm install".
+3. Otkako ke se instaliraat site neophodni node moduli, zadadete ja komandata "npm start" i vnesete ja adresata "localhost:8080" vo vashiot internet prelistuvac.
+
 Koristenje:
 
 - Za kreiranje nova zadaca vnesete ja zadacata i pritisnete na "Dodaj". Novata zadava ke se pojavi na ekranot
