@@ -1,0 +1,82 @@
+body {   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/background.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	  font-family: 'Roboto', sans-serif; display: flex; }
+
+h1 {
+	background: #001f3f;
+	color: white !important;
+	margin: 0;
+	text-align: center;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	background: white;
+	height: auto;
+	line-height: auto;
+	color: #666;
+	overflow: hidden;
+	display: flex;
+	margin-top: 5px;
+}
+
+span {
+	margin-left: 10px;
+	flex: 1;
+}
+
+.kopce { margin-left: 10px; }
+
+
+form { display: flex; }
+.dodaj-kopce { flex: 1; margin-right: 10px;}
+
+
+input {
+	font-size: 18px;
+	color: maroon;
+	background-color: #f7f7f7;
+	width: 100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+	border: 3px solid rgba(0, 0, 0, 0);
+	line-height: 60px;
+	height: 60px;
+}
+
+li:nth-child(2n) { background: #f7f7f7; }
+
+li:hover span {
+	width: 40px;
+	opacity: 1.1;
+}
+
+input:focus {
+	background: #fff;
+	border: 3px solid maroon;
+	outline: none;
+}
+
+#app {
+	position: relative;
+	top:200px;
+	width: 450px;
+	margin: auto;
+	background: #f7f7f7;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+
+
