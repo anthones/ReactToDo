@@ -1,6 +1,6 @@
 # ReactToDo
 
-(http://i.imgur.com/q0sB58e.jpg)
+![screenshot](http://i.imgur.com/q0sB58e.jpg)
 
 Instaliranje:
 
