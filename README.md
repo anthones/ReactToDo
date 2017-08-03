@@ -1,5 +1,7 @@
 # ReactToDo
 
+(http://i.imgur.com/q0sB58e.jpg)
+
 Instaliranje:
 
 1. Klonirajte go repoto na vashata lokalna mashina, ili simnete go vo .zip format.
