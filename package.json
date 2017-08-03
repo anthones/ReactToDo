@@ -1,5 +1,5 @@
 {
-  "name": "React To-Do",
+  "name": "ReactToDo",
   "version": "1.0.0",
   "description": "Aplikacija za sozdavanje i koristenje na sopstveni zadaci. Napravena so pomosh na React.",
   "main": "index.js",
@@ -29,6 +29,6 @@
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^3.10.1",
     "react": "^0.14.3",
-    "react-dom": "^0.14.3",
+    "react-dom": "^0.14.3"
   }
 }
