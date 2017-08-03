@@ -45,7 +45,7 @@ export default class Sozdavac extends React.Component {
     validateInput(task) {
         if (!task) {
             return 'Ве молиме внесете барем нешто.';
-        } else if (_.find(this.props.todos, todo => todo.task === task)) {
+        } else if (_.find(this.props.zadaca, todo => todo.task === task)) {
             return 'Потсетникот веќе постои.';
         } else {
             return null;
